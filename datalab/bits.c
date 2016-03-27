@@ -1,7 +1,7 @@
 /* 
  * CS:APP Data Lab 
  * 
- * <���¿� p20150699>
+ * <정태영 p20150699>
  * 
  * bits.c - Source file with your solutions to the Lab.
  *          This is the file you will hand in to your instructor.
@@ -225,7 +225,11 @@ int bitCount(int x) {
     x = (x & a5) + ( (x>>16) &a5);
   
     return x;
-
+//in mathematical formula : number of bit == n - sigma(1,inf)[n/(2^i)]
+//ith bit 1 makes 01111111..11(i-1 of 1), subtract from n
+//i번째 자리에 있는 1을 위의 식을 적용시키면 0부터 i-1번째까지 다 1로 채워진걸 원래 수에서 빼게되고,
+//이는 1과 같음
+//각 자리마다 이걸 생각하면 당연히 1의 개수 센게 나옴
 }
 
 /* 
