@@ -455,14 +455,20 @@ void *mm_realloc(void *ptr, size_t size)
                 deletePtr(latter);
                 setSize(newptr, getSize(newptr) + 2*SIZE_HEADER + lattersize);
             }
-            memcpy(newptr, ptr, oldsize);
+            //memcpy(newptr, ptr, oldsize);
+            for(int i=0;i<oldsize;i++){
+                *(char *)(newptr + i) = *(char *)(ptr + i);
+            }
             setFlag(newptr, ALOC);
             return newptr;
         }
         else//when no freed memory with enough size near ptr
         {
             newptr = mm_malloc(size);
-            memcpy(newptr, ptr, oldsize);
+            //memcpy(newptr, ptr, oldsize);
+            for(int i=0;i<oldsize;i++){
+                *(char *)(newptr + i) = *(char *)(ptr + i);
+            }
             mm_free(ptr);
             setFlag(newptr, ALOC);
             return newptr;
